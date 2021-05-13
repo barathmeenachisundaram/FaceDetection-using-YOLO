@@ -107,5 +107,6 @@ while True:
         if key == ord("q"):
             break
 # do a bit of cleanup
+#edited
 cv2.destroyAllWindows()
 vs.stop()
